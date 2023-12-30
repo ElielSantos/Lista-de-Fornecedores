@@ -16,3 +16,8 @@ VALUES
 ('Cristiano Ronaldo', 'cristiano.ronaldo@gmail.com', '+32447788993', 'Manchester, Inglaterra'),
 ('Boris Johnson', 'boris.johnson@gmail.com', '+4499778855', 'Londres, Inglaterra');
 
+----------------------------------------------------------------------------------------------
+
+sudo /opt/lampp/manager-linux-x64.run  for run xampp in linux terminal
+/opt/lampp/htdocs/ acessar pasta 'htdocs' por diretorio de pastas
+
