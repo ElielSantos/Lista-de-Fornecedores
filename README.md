@@ -1,3 +1,5 @@
+localhost:81/fornecedores/index.php
+
 How to run a php Crud in linux with xampp 
 
 sudo /opt/lampp/manager-linux-x64.run  (run Xampp)  
@@ -15,3 +17,4 @@ sudo mkdir mysite
 sudo chown -R $USER:$USER mysite
 cd /mysite
 code .c
+
